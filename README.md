@@ -21,9 +21,6 @@ Fetches top-rated movie data from TMDb API, compiles it into a dataset, and expo
 
 The dataset is available in `movies_dataset.csv`. It contains movie details like title, overview, release date, popularity, vote average, and vote count.
 
-## Contributing
-
-Contributions welcome! Open issues or pull requests for suggestions, improvements, or bug fixes.
 
 ## Contact
 
