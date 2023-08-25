@@ -7,8 +7,7 @@ Fetches top-rated movie data from TMDb API, compiles it into a dataset, and expo
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Getting Started
 
@@ -22,5 +21,7 @@ Fetches top-rated movie data from TMDb API, compiles it into a dataset, and expo
 The dataset is available in `movies_dataset.csv`. It contains movie details like title, overview, release date, popularity, vote average, and vote count.
 
 
+## Customization
 
+You can customize the script and database location according to your preferences by modifying the variables in the `main.py` file.
 
