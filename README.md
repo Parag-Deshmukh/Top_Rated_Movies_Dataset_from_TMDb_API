@@ -22,3 +22,6 @@ The dataset is available in `movies_dataset.csv`. It contains movie details like
 
 
 
+## Customization
+
+You can customize the script and database location according to your preferences by modifying the variables in the `main.py` file.
